@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://images.unsplash.com/photo-1604423203943-54721eff418a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1469&q=80",
+    "author_name": "Jane Doe",
+    "author_img": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Tom_Stevenson_in_2006.jpg/200px-Tom_Stevenson_in_2006.jpg",
+    "title": "Exploring the Mysteries of Deep Space",
+    "tags": ["Space", "Astronomy", "Exploration"],
+    "reading_time": 8
+  },
+  {
+    "id": 2,
+    "cover_img": "https://images.unsplash.com/photo-1583729259394-0315fc9e3338?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "author_name": "John Smith",
+    "author_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Robert_Holden_4_high_res.jpg/200px-Robert_Holden_4_high_res.jpg",
+    "title": "The Art of Gourmet Cooking",
+    "tags": ["Food", "Cooking", "Recipes"],
+    "reading_time": 12
+  },
+  {
+    "id": 3,
+    "cover_img": "https://images.unsplash.com/photo-1682686580003-22d3d65399a8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1631&q=80",
+    "author_name": "Emily Johnson",
+    "author_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLoOypPLjnN2IUlpKHaPMyJgrzazFU_w1XF-566wguSkegOkYuWoO0SWilIygIgZaZbEk&usqp=CAU",
+    "title": "Traveling Through Time: A Historical Adventure",
+    "tags": ["History", "Travel", "Adventure"],
+    "reading_time": 10
+  },
+  {
+    "id": 4,
+    "cover_img": "https://images.unsplash.com/photo-1493106641515-6b5631de4bb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1569&q=80",
+    "author_name": "Michael Anderson",
+    "author_img": "https://thumbs.dreamstime.com/b/ed-helms-24617661.jpg",
+    "title": "Mastering the Art of Photography",
+    "tags": ["Photography", "Creativity", "Tips"],
+    "reading_time": 15
+  },
+  {
+    "id": 5,
+    "cover_img": "https://images.unsplash.com/photo-1589923188900-85dae523342b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+    "author_name": "Sarah Roberts",
+    "author_img": "https://st4.depositphotos.com/5326338/26628/i/450/depositphotos_266287648-stock-photo-actor-paul-rudd-world-premiere.jpg",
+    "title": "The Green Thumb's Guide to Gardening",
+    "tags": ["Gardening", "Plants", "Landscaping"],
+    "reading_time": 7
+  }
+]
